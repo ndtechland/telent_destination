@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "TJ9XhCIDta+jzjgzmJ90041CL2klJUF846Mwev0X0qA=",
+  "Source": "TalentAPI",
+  "BasePath": "_content/TalentAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TalentAPI\\wwwroot",
+      "Source": "TalentAPI",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentAPI\\wwwroot\\",
+      "BasePath": "_content/TalentAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentAPI\\wwwroot\\banners\\Image_logonew.png",
+      "SourceId": "TalentAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentAPI\\wwwroot\\",
+      "BasePath": "_content/TalentAPI",
+      "RelativePath": "banners/Image_logonew.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\banners\\Image_logonew.png"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentAPI\\wwwroot\\banners\\Image_NIC_Base.png",
+      "SourceId": "TalentAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentAPI\\wwwroot\\",
+      "BasePath": "_content/TalentAPI",
+      "RelativePath": "banners/Image_NIC_Base.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\banners\\Image_NIC_Base.png"
+    }
+  ]
+}

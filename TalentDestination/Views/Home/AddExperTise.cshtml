@@ -1,0 +1,83 @@
+﻿@{
+    ViewData["Title"] = "AddExperTise";
+    Layout = "~/Views/Shared/_adminLayout.cshtml";
+}
+@model IEnumerable<TalentDestination.Models.AddExperTise>
+<div class="forms">
+
+    <div class="form-grids row widget-shadow" data-example-id="basic-forms">
+        <div class="form-title">
+            <h4>Add Expertise Category :</h4>
+        </div>
+        <div class="form-body">
+            <form method="post" enctype="multipart/form-data" action="AddExperTise">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">Category Name</label>
+                            <input type="text" class="form-control" required id="txtCategoryName" placeholder="Category Name" name="CategoryName">
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label for="exampleInputFile">Category Image</label>
+                            <input type="file" required id="ImageFile" name="ImageFile">
+
+                        </div>
+                    </div>
+                </div>
+                <div class="row  form-title" style="text-align:center">
+                    <button type="submit" class="btn btn-default">Submit</button>
+                </div>
+
+            </form>
+        </div>
+    </div>
+
+</div>
+
+<div class="tables">
+    <div class="table-responsive bs-example widget-shadow">
+        <h4>Expertise Category List:</h4>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Sr.No</th>
+                    <th>Category Name</th>
+                    <th>Category Image</th>
+                    <th>Added By</th>
+                    <th>Added On</th>
+                    <th>Status</th>
+                    <th>Edit</th>
+                    <th>Delete</th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    var count = 0;
+                    @if (Model!=null && Model.Count() > 0)
+                    {
+                        @foreach (var item in Model)
+                        {
+                            count++;
+                            <tr>
+                                
+                                <th scope="row">@count</th>
+                                <td>@item.CategoryName</td>
+                                <td><img src='../ExperTiseImages/@item.FilePath' style="height:100px;width:100px" /> </td>
+                                <td>@item.AddedBy</td>
+                                <td>@item.AddedOn</td>
+                                <td>@item.Status</td>
+                                <td><a href="#"><i style="font-color:green;font-weight:bold" class="fa fa-pencil"></i></a></td>
+                                <td><a href="#"><i style="font-color:red;font-weight:bold" class="fa fa-trash-o"></i></a></td>
+                            </tr>
+                        }
+                    }
+                }
+            </tbody>
+
+        </table>
+    </div>
+</div>
+
+

@@ -1,0 +1,733 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\BannerImages\\0b6be1d1-b0e7-46d1-bd19-fb215bdd0ab220240109174334994.mp4",
+      "PackagePath": "staticwebassets\\BannerImages\\0b6be1d1-b0e7-46d1-bd19-fb215bdd0ab220240109174334994.mp4"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\BannerImages\\4a1f2526-6c7c-46da-9d70-93ec06d433c420240109174825047.mp4",
+      "PackagePath": "staticwebassets\\BannerImages\\4a1f2526-6c7c-46da-9d70-93ec06d433c420240109174825047.mp4"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\BannerImages\\eac5ac29-467a-4624-ab76-98ab2840a99220240109174323796.png",
+      "PackagePath": "staticwebassets\\BannerImages\\eac5ac29-467a-4624-ab76-98ab2840a99220240109174323796.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\ExperTiseImages\\000a97ef-b649-4e08-9e5a-070815f000df20240109020628616.png",
+      "PackagePath": "staticwebassets\\ExperTiseImages\\000a97ef-b649-4e08-9e5a-070815f000df20240109020628616.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\ExperTiseImages\\111d2219-a4eb-44b6-97bc-e475282df84520240109120553312.png",
+      "PackagePath": "staticwebassets\\ExperTiseImages\\111d2219-a4eb-44b6-97bc-e475282df84520240109120553312.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\ExperTiseImages\\1d5499f3-c6d8-4236-9b26-11629f92bd1220240109120313081.png",
+      "PackagePath": "staticwebassets\\ExperTiseImages\\1d5499f3-c6d8-4236-9b26-11629f92bd1220240109120313081.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\ExperTiseImages\\220ba724-53f7-4086-970e-ac7b2add41ac20240109115858284.png",
+      "PackagePath": "staticwebassets\\ExperTiseImages\\220ba724-53f7-4086-970e-ac7b2add41ac20240109115858284.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\ExperTiseImages\\2c9db272-967d-41f0-8631-4326193e0c9320240109120639756.png",
+      "PackagePath": "staticwebassets\\ExperTiseImages\\2c9db272-967d-41f0-8631-4326193e0c9320240109120639756.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\ExperTiseImages\\2dc01ca4-f23a-49f9-88b3-b09a6434245020240109145343043.png",
+      "PackagePath": "staticwebassets\\ExperTiseImages\\2dc01ca4-f23a-49f9-88b3-b09a6434245020240109145343043.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\ExperTiseImages\\40e30b8e-76f8-427c-b889-d3f6407cbf3820240109144937433.png",
+      "PackagePath": "staticwebassets\\ExperTiseImages\\40e30b8e-76f8-427c-b889-d3f6407cbf3820240109144937433.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\ExperTiseImages\\4993a2d5-2ced-4418-8e06-85553188d03d20240109120131326.png",
+      "PackagePath": "staticwebassets\\ExperTiseImages\\4993a2d5-2ced-4418-8e06-85553188d03d20240109120131326.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\ExperTiseImages\\7b78b1e4-b0a1-4a7c-96e5-3f86c5756c7c20240109115516469.png",
+      "PackagePath": "staticwebassets\\ExperTiseImages\\7b78b1e4-b0a1-4a7c-96e5-3f86c5756c7c20240109115516469.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\ExperTiseImages\\7e2addd7-b718-4e7e-a476-92a6c362451520240109145555237.png",
+      "PackagePath": "staticwebassets\\ExperTiseImages\\7e2addd7-b718-4e7e-a476-92a6c362451520240109145555237.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\ExperTiseImages\\829c9728-c9ab-472b-a301-fea99592fc2620240109144737868.png",
+      "PackagePath": "staticwebassets\\ExperTiseImages\\829c9728-c9ab-472b-a301-fea99592fc2620240109144737868.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\ExperTiseImages\\837b9420-4b94-42b0-b062-ac994ad3acf820240109023142869.png",
+      "PackagePath": "staticwebassets\\ExperTiseImages\\837b9420-4b94-42b0-b062-ac994ad3acf820240109023142869.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\ExperTiseImages\\89012122-9db4-45e2-9ce0-e8865c58d99820240109120808882.png",
+      "PackagePath": "staticwebassets\\ExperTiseImages\\89012122-9db4-45e2-9ce0-e8865c58d99820240109120808882.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\ExperTiseImages\\89e96e47-e2d0-4ec6-902e-4e3eb5f750ee20240109021325427.png",
+      "PackagePath": "staticwebassets\\ExperTiseImages\\89e96e47-e2d0-4ec6-902e-4e3eb5f750ee20240109021325427.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\ExperTiseImages\\9422fbfe-0f8f-49e5-b781-af8f6ed4300820240109022611377.png",
+      "PackagePath": "staticwebassets\\ExperTiseImages\\9422fbfe-0f8f-49e5-b781-af8f6ed4300820240109022611377.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\ExperTiseImages\\9b762480-b227-4048-b526-dc75a147fd8920240109120038196.png",
+      "PackagePath": "staticwebassets\\ExperTiseImages\\9b762480-b227-4048-b526-dc75a147fd8920240109120038196.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\ExperTiseImages\\Image_logonew.png",
+      "PackagePath": "staticwebassets\\ExperTiseImages\\Image_logonew.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\ExperTiseImages\\a23e4569-1eb2-47b4-8733-005e79ffea4720240109120227954.png",
+      "PackagePath": "staticwebassets\\ExperTiseImages\\a23e4569-1eb2-47b4-8733-005e79ffea4720240109120227954.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\ExperTiseImages\\b6285051-0346-40ea-aa0f-abafafc2ac9920240109120503961.png",
+      "PackagePath": "staticwebassets\\ExperTiseImages\\b6285051-0346-40ea-aa0f-abafafc2ac9920240109120503961.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\ExperTiseImages\\c1e148f3-da53-49c9-9f04-9d7ab0d0c79d20240109120408743.png",
+      "PackagePath": "staticwebassets\\ExperTiseImages\\c1e148f3-da53-49c9-9f04-9d7ab0d0c79d20240109120408743.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\ExperTiseImages\\d2bb9987-8996-42a1-b6a5-3a3a3e7c7ded20240109120717811.png",
+      "PackagePath": "staticwebassets\\ExperTiseImages\\d2bb9987-8996-42a1-b6a5-3a3a3e7c7ded20240109120717811.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\ExperTiseImages\\ece9213c-5429-4f8d-be7b-e1928b6aa37c20240109115800556.png",
+      "PackagePath": "staticwebassets\\ExperTiseImages\\ece9213c-5429-4f8d-be7b-e1928b6aa37c20240109115800556.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\ExperTiseImages\\ef6e1a3a-876d-4f2b-b838-b783567baf1520240109143946346.png",
+      "PackagePath": "staticwebassets\\ExperTiseImages\\ef6e1a3a-876d-4f2b-b838-b783567baf1520240109143946346.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\ExperTiseImages\\f423393b-9535-4aad-9b6e-a0e538539f9e20240109022510716.png",
+      "PackagePath": "staticwebassets\\ExperTiseImages\\f423393b-9535-4aad-9b6e-a0e538539f9e20240109022510716.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\css\\clndr.css",
+      "PackagePath": "staticwebassets\\assets\\css\\clndr.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\css\\custom.css",
+      "PackagePath": "staticwebassets\\assets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\css\\jqvmap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jqvmap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\images\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\images\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\images\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\images\\a.png",
+      "PackagePath": "staticwebassets\\assets\\images\\a.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\images\\i1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\i1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\images\\i2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\i2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\images\\i3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\i3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\images\\i4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\i4.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\images\\img1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\img1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\images\\lock.png",
+      "PackagePath": "staticwebassets\\assets\\images\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\images\\tick.png",
+      "PackagePath": "staticwebassets\\assets\\images\\tick.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\images\\user.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\js\\Chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\Chart.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\js\\classie.js",
+      "PackagePath": "staticwebassets\\assets\\js\\classie.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\js\\clndr.js",
+      "PackagePath": "staticwebassets\\assets\\js\\clndr.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\js\\jquery-1.11.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-1.11.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\js\\jquery.circlechart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.circlechart.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\js\\jquery.nicescroll.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.nicescroll.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\js\\jquery.vmap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.vmap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\js\\jquery.vmap.sampledata.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.vmap.sampledata.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\js\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\js\\metisMenu.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\metisMenu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\js\\modernizr.custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\modernizr.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\js\\moment-2.2.1.js",
+      "PackagePath": "staticwebassets\\assets\\js\\moment-2.2.1.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\assets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\js\\site.js",
+      "PackagePath": "staticwebassets\\assets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\js\\skycons.js",
+      "PackagePath": "staticwebassets\\assets\\js\\skycons.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\js\\underscore-min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\underscore-min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\js\\validator.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\validator.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\assets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\css\\clndr.css",
+      "PackagePath": "staticwebassets\\css\\clndr.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\css\\jqvmap.css",
+      "PackagePath": "staticwebassets\\css\\jqvmap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\images\\2.png",
+      "PackagePath": "staticwebassets\\images\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\images\\3.png",
+      "PackagePath": "staticwebassets\\images\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\images\\a.png",
+      "PackagePath": "staticwebassets\\images\\a.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\images\\i1.png",
+      "PackagePath": "staticwebassets\\images\\i1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\images\\i2.png",
+      "PackagePath": "staticwebassets\\images\\i2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\images\\i3.png",
+      "PackagePath": "staticwebassets\\images\\i3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\images\\i4.png",
+      "PackagePath": "staticwebassets\\images\\i4.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\images\\img1.png",
+      "PackagePath": "staticwebassets\\images\\img1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\images\\lock.png",
+      "PackagePath": "staticwebassets\\images\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\images\\tick.png",
+      "PackagePath": "staticwebassets\\images\\tick.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\images\\user.png",
+      "PackagePath": "staticwebassets\\images\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\js\\Chart.js",
+      "PackagePath": "staticwebassets\\js\\Chart.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\js\\classie.js",
+      "PackagePath": "staticwebassets\\js\\classie.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\js\\clndr.js",
+      "PackagePath": "staticwebassets\\js\\clndr.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\js\\jquery-1.11.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.11.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\js\\jquery.circlechart.js",
+      "PackagePath": "staticwebassets\\js\\jquery.circlechart.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\js\\jquery.nicescroll.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nicescroll.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\js\\jquery.vmap.js",
+      "PackagePath": "staticwebassets\\js\\jquery.vmap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\js\\jquery.vmap.sampledata.js",
+      "PackagePath": "staticwebassets\\js\\jquery.vmap.sampledata.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\js\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\js\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\js\\metisMenu.min.js",
+      "PackagePath": "staticwebassets\\js\\metisMenu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\js\\modernizr.custom.js",
+      "PackagePath": "staticwebassets\\js\\modernizr.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\js\\moment-2.2.1.js",
+      "PackagePath": "staticwebassets\\js\\moment-2.2.1.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\js\\skycons.js",
+      "PackagePath": "staticwebassets\\js\\skycons.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\js\\underscore-min.js",
+      "PackagePath": "staticwebassets\\js\\underscore-min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\js\\validator.min.js",
+      "PackagePath": "staticwebassets\\js\\validator.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\TalentDestination\\TalentDestination\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TalentDestination.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TalentDestination.props",
+      "PackagePath": "build\\TalentDestination.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TalentDestination.props",
+      "PackagePath": "buildMultiTargeting\\TalentDestination.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TalentDestination.props",
+      "PackagePath": "buildTransitive\\TalentDestination.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

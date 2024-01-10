@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalentDestination", "TalentDestination\TalentDestination.csproj", "{93D9AD5A-467D-4892-9002-B0427242B65F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalnetAPI", "WebApplication1\TalnetAPI.csproj", "{432786FB-DCA1-4FCD-B118-A059648E484A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93D9AD5A-467D-4892-9002-B0427242B65F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D9AD5A-467D-4892-9002-B0427242B65F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D9AD5A-467D-4892-9002-B0427242B65F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D9AD5A-467D-4892-9002-B0427242B65F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{432786FB-DCA1-4FCD-B118-A059648E484A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{432786FB-DCA1-4FCD-B118-A059648E484A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{432786FB-DCA1-4FCD-B118-A059648E484A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{432786FB-DCA1-4FCD-B118-A059648E484A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9AFF1AE-2A50-459D-842D-6596762D47FD}
+	EndGlobalSection
+EndGlobal
